@@ -1,0 +1,11 @@
+.banner {
+  margin-bottom: 5rem;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.paper:hover {
+  margin-top: -10px;
+}

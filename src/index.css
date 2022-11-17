@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Roboto;
+  background: #eaeaea;
+}
+
+body {
+  margin: 0;
+}

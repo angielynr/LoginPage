@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Expense App",
+    "image": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "tech": "HTML, CSS, JavaScript, ReactJS",
+    "localhost": "http://localhost:3001/"
+  },
+  {
+    "id": 2,
+    "name": "Food App",
+    "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+    "tech": "HTML, CSS, JavaScript, React",
+    "localhost": "http://localhost:3000/"
+  },
+  {
+    "id": 3,
+    "name": "Location App",
+    "image": "https://cdn.savemyexams.co.uk/cdn-cgi/image/w=1920,f=auto/uploads/2021/08/3.2.2-Reflection-on-Water.png",
+    "tech": "HTML, CSS, JavaScript, React, OpenLayers",
+    "localhost": "http://127.0.0.1:5173/"
+  },
+  {
+    "id": 4,
+    "name": "Community Tracker App",
+    "image": "https://miro.medium.com/max/1400/1*Q9bfz0wD837_Irn20O-ERA.jpeg",
+    "tech": "C#, .Net Core, React"
+  }
+]

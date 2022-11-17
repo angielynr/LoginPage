@@ -1,0 +1,19 @@
+.logo {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 150px;
+}
+
+.container {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 30%;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
