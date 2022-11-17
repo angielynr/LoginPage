@@ -3,20 +3,20 @@ import { Grid, Paper, Typography, Box } from "@mui/material";
 import BuildCircleIcon from "@mui/icons-material/BuildCircle";
 import classes from "../home.module.css";
 
-const MenuCard = ({ project }) => {
+const MenuCard = (props) => {
   return (
     <Grid item sm={12} md={6}>
       <a
-        href={project.localhost}
+        href={props.project.localhost}
         className={classes.link}
         target="_blank"
         rel="noreferrer"
       >
         <Paper elevation={3} className={classes.paper}>
-          <img src={project.image} alt="" width="100%" height="300px" />
+          <img src={props.project.image} alt="" width="100%" height="300px" />
           <Box paddingX={3} paddingY={3}>
             <Typography variant="subtitle" component="h1">
-              {project.name}
+              {props.project.name}
             </Typography>
             <Box
               marginTop={1}
@@ -24,7 +24,7 @@ const MenuCard = ({ project }) => {
             >
               <BuildCircleIcon color="primary" />
               <Typography variant="body2" component="p">
-                {project.tech}
+                {props.project.tech}
               </Typography>
             </Box>
           </Box>
