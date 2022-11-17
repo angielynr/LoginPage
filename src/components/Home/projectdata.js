@@ -8,7 +8,7 @@ export const projectData = [
     name: "Expense App",
     image: expenseImage,
     tech: "HTML, CSS, JavaScript, ReactJS",
-    localhost: "http://localhost:3001/",
+    localhost: "https://angielynr.github.io/ExpenseApp_React/",
   },
   {
     id: 2,
