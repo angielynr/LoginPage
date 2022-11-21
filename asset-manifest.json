@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LoginPage/static/css/main.24482213.chunk.css",
-    "main.js": "/LoginPage/static/js/main.68ae4d94.chunk.js",
-    "main.js.map": "/LoginPage/static/js/main.68ae4d94.chunk.js.map",
+    "main.js": "/LoginPage/static/js/main.f5d158ff.chunk.js",
+    "main.js.map": "/LoginPage/static/js/main.f5d158ff.chunk.js.map",
     "runtime-main.js": "/LoginPage/static/js/runtime-main.ed8bf2f5.js",
     "runtime-main.js.map": "/LoginPage/static/js/runtime-main.ed8bf2f5.js.map",
     "static/js/2.e04c4ee2.chunk.js": "/LoginPage/static/js/2.e04c4ee2.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.ed8bf2f5.js",
     "static/js/2.e04c4ee2.chunk.js",
     "static/css/main.24482213.chunk.css",
-    "static/js/main.68ae4d94.chunk.js"
+    "static/js/main.f5d158ff.chunk.js"
   ]
 }
